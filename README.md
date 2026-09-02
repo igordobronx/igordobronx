@@ -1,50 +1,102 @@
-### Igor Ferreira — Infrastructure & Software Engineer
+<div align="center">
 
-Python backend, Linux infrastructure and application security. I run production systems for multiple city government departments and cofound a software engineering firm where I own end-to-end delivery.
+# ⚡ 𝕀𝕘𝕠𝕣 𝔽𝕖𝕣𝕣𝕖𝕚𝕣𝕒
 
-Anapolis, Brazil • Open to remote (UTC-3)
-igorcelloferreira@gmail.com • linkedin.com/in/igor-ferreira-18370b278 • igor-ferreira-portfolio-six.vercel.app
+### 🛡️ **Infrastructure & Software Engineer**
+
+`Python Backend` • `Linux Infrastructure` • `Application Security`
+
+<p align="center">
+  <a href="mailto:igorcelloferreira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-igorcelloferreira%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/igor-ferreira-18370b278">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://igor-ferreira-portfolio-six.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+📍 **Anápolis, Brazil** • 🌎 **Open to Remote Work** (UTC-3)
 
 ---
 
-#### Currently
+</div>
 
-• IT Infrastructure Engineer @ City of Anapolis (municipal government): Linux servers, corporate networking and the production environments backing multiple municipal departments. Designed the application security layer of an internal system (SQL injection, XSS, CSRF and brute-force protection, TOTP two-factor auth, role-based access control) and own the enterprise endpoint security platform (Bitdefender GravityZone).
+## 📌 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
-• Cofounder & Software Engineer @ LIB Desenvolvedores: own the full delivery cycle for institutional clients — requirements, architecture, data modeling, development, release and production maintenance.
+> Production-focused engineer balancing high-availability infrastructure with robust backend security. I run systems for municipal government operations and build end-to-end applications as a startup cofounder.
 
-#### Selected projects
+* 🏛️ **IT Infrastructure Engineer @ City of Anapolis:** Hardening production environments, managing enterprise endpoint security (Bitdefender GravityZone), and securing municipal networks against modern threat vectors.
+* 🚀 **Cofounder & Developer @ LIB Desenvolvedores:** Leading complete project delivery cycles — from architectural design and data modeling to deployment and server maintenance.
 
-• Self-Hosted Password & Secrets Vault — Python, SQLite, TOTP. Threat-modeled security app for the municipal IT team: TOTP auth, RBAC, encrypted secrets, hardened against SQLi/XSS/CSRF/brute force.
+---
 
-• UFC Fight Outcome Prediction Model — Python, LightGBM. github.com/igordobronx/fight_predictor_plataform — end-to-end ML pipeline with Elo ratings, strength of schedule and Monte Carlo simulation, ~85% accuracy across three recent events via backtest.
+## 🛠️ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕊𝕥𝕒𝕔𝕜
 
-• Hidrolink — Backend & Infrastructure — Python, FastAPI, AWS, LoRa. Telemetry ingestion for Brazilian agribusiness devices over LoRa; I lead scope, architecture and delivery.
+| Domain | Technologies |
+| :--- | :--- |
+| **Infrastructure & DevOps** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![CI/CD](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Backend & Databases** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Security & Hardening** | Threat Modeling • Application Security (OWASP Top 10) • Auth (TOTP, RBAC) • TLS/Encryption • SIEM/IDS (Wazuh, Suricata) |
+| **AI & Data Science** | Machine Learning • LightGBM • Data Pipelines • Local LLMs (Ollama) |
 
-• Ticketing & Box Office Platform — PHP, Laravel, MySQL. bilheteria.basileufranca.com.br — isolated ticketing system on a dedicated VPS for an arts school, separated from shared hosting for security.
+---
 
-• Infrastructure & Security Home Lab — Proxmox, Ansible, Terraform. Proxmox VE, OPNsense with Suricata and Wazuh (IDS/SIEM), infrastructure as code, CI/CD via GitHub Actions.
+## 🚀 𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕕 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
 
-• Portfolio — React, TypeScript, Vite. github.com/igordobronx/igor_ferreira_portfolio — this profile's portfolio site.
+<details>
+<summary>🔑 <b>Self-Hosted Password & Secrets Vault</b> (<em>Python, SQLite, TOTP</em>)</summary>
+<br />
+Threat-modeled, hardened security application built for municipal IT teams. Features TOTP authentication, RBAC, encrypted secrets, and complete mitigation against SQLi, XSS, CSRF, and brute-force attacks.
+</details>
 
-#### Leadership
+<details>
+<summary>🥊 <b>UFC Fight Outcome Prediction Model</b> (<em>Python, LightGBM</em>)</summary>
+<br />
+End-to-end ML pipeline utilizing Elo ratings, strength of schedule, and Monte Carlo simulations to predict fight outcomes. Achieved ~85% accuracy across recent events via backtesting.<br />
+👉 <a href="https://github.com/igordobronx/fight_predictor_plataform">Repository link</a>
+</details>
 
-• 2nd place, UFG Artificial Intelligence Olympiad (2025), team lead — result funded 30 days studying AI in Singapore through the Goias pelo Mundo program.
+<details>
+<summary>🌾 <b>Hidrolink — Agribusiness Telemetry Platform</b> (<em>FastAPI, AWS, LoRa</em>)</summary>
+<br />
+Backend and infrastructure for real-time telemetry data ingestion from IoT devices across agribusiness environments over LoRa networks.
+</details>
 
-• Team lead, Unicietec Hackathon — presented Hidrolink to the judging panel.
+<details>
+<summary>🎟️ <b>Arts School Ticketing & Box Office Platform</b> (<em>PHP, Laravel, MySQL</em>)</summary>
+<br />
+Isolated, production-grade ticketing platform running on a dedicated VPS to ensure high-traffic security and availability.<br />
+👉 <a href="https://bilheteria.basileufranca.com.br">Live Platform</a>
+</details>
 
-#### Stack
+<details>
+<summary>🖥️ <b>Infrastructure & Security Home Lab</b> (<em>Proxmox, Ansible, Terraform</em>)</summary>
+<br />
+Personal enterprise lab featuring Proxmox VE, OPNsense with Suricata & Wazuh (IDS/SIEM), Infrastructure as Code (IaC), and GitHub Actions pipelines.
+</details>
 
-Infrastructure: Linux, Docker, AWS, Ansible, Terraform, Networking, LoRa, Virtualization, CI/CD, Git
+---
 
-Backend: Python, FastAPI, Flask, REST APIs, SQL, SQLite, JavaScript
+## 🏆 𝕃𝕖𝕒𝕕𝕖𝕣𝕤𝕙𝕚𝕡 & 𝔸𝕔𝕙𝕚𝕖𝕛𝕖𝕞𝕖𝕟𝕥𝕤
 
-Security: Threat modeling, application security, authentication and access control, encryption/TLS, SIEM/IDS, endpoint security
+* 🥈 **2nd Place — UFG Artificial Intelligence Olympiad:** Led the team to podium finish, earning a 30-day AI immersion program in **Singapore** (Goiás pelo Mundo).
+* 💡 **Team Lead — Unicietec Hackathon:** Pitched and presented the *Hidrolink* IoT architecture to the judging panel.
 
-AI/Data: Machine learning, LightGBM, data pipelines, local open-source models (Ollama)
+---
 
-#### Education
+## 🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 & 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤
 
-UniEVANGELICA — B.Sc. Software Engineering, 2025-2028 — Anapolis, Brazil
+* 🎓 **UniEVANGÉLICA** — B.Sc. in Software Engineering *(2025 – 2028)*
+* 🗣️ **Languages:** Portuguese (Native) • English (Advanced) • Spanish (Basic)
 
-Languages: Portuguese (native), English (advanced), Spanish (basic)
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=igordobronx&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Igor's GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordobronx&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="160"/>
+
+</div>
