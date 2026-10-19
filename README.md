@@ -53,9 +53,9 @@ Threat-modeled, hardened security application built for municipal IT teams. Feat
 </details>
 
 <details>
-<summary>🥊 <b>UFC Fight Outcome Prediction Model</b> (<em>Python, LightGBM</em>)</summary>
+<summary> 📚 <b>DOMINA - Copilot every teacher needs</b> (<em>Python, LightGBM</em>)</summary>
 <br />
-End-to-end ML pipeline utilizing Elo ratings, strength of schedule, and Monte Carlo simulations to predict fight outcomes. Achieved ~85% accuracy across recent events via backtesting.<br />
+ AI-powered ed-tech platform that grades ENEM essays against the official 5-competency rubric and diagnoses each student's skill gaps, with a teacher-approval step before AI scores and feedback are released to students.<br />
 👉 <a href="https://github.com/igordobronx/fight_predictor_plataform">Repository link</a>
 </details>
 
